@@ -1,0 +1,12 @@
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\bin\Debug\EditProfileData.exe.config
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\obj\Debug\EditProfileData.Properties.Resources.resources
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\obj\Debug\EditProfileData.csproj.GenerateResource.Cache
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\bin\Debug\EditProfileData.exe
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\bin\Debug\EditProfileData.pdb
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\obj\Debug\EditProfileData.exe
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\obj\Debug\EditProfileData.pdb
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\bin\Debug\nunit.framework.dll
+c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfileData\bin\Debug\nunit.framework.xml
+C:\Users\Valery\Desktop\EditProfileData\EditProfileData\bin\Debug\EditProfileData.exe.config
+C:\Users\Valery\Desktop\EditProfileData\EditProfileData\obj\Debug\EditProfileData.exe
+C:\Users\Valery\Desktop\EditProfileData\EditProfileData\obj\Debug\EditProfileData.pdb
