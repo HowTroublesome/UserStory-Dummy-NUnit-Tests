@@ -10,3 +10,6 @@ c:\users\bobby\documents\visual studio 2013\Projects\EditProfileData\EditProfile
 C:\Users\Valery\Desktop\EditProfileData\EditProfileData\bin\Debug\EditProfileData.exe.config
 C:\Users\Valery\Desktop\EditProfileData\EditProfileData\obj\Debug\EditProfileData.exe
 C:\Users\Valery\Desktop\EditProfileData\EditProfileData\obj\Debug\EditProfileData.pdb
+F:\Programming\Windows Form Application\UserStory-Dummy-NUnit-Tests\EditProfileData\EditProfileData\bin\Debug\EditProfileData.exe.config
+F:\Programming\Windows Form Application\UserStory-Dummy-NUnit-Tests\EditProfileData\EditProfileData\obj\Debug\EditProfileData.exe
+F:\Programming\Windows Form Application\UserStory-Dummy-NUnit-Tests\EditProfileData\EditProfileData\obj\Debug\EditProfileData.pdb

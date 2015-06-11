@@ -23,7 +23,11 @@ namespace EditProfileData.Data
             {
                 if (user.getId() == u.getId())
                 {
+                    user.setUserName(u.getUserName());
                     user.setPassword(u.getPassword());
+                    user.setFirstName(u.getFirstName());
+                    user.setSecondName(u.getSecondName());
+                    user.setLastName(u.getLastName());
                 }
             }
         }

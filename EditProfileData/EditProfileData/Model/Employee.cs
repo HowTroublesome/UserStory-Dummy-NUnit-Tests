@@ -154,12 +154,5 @@ namespace EditProfileData.Model
             tempUser.setIsMemberInManagement(this.getIsMemberInManagement());
         }
             
-
-
-
-        
-
-        
-
     }
 }
