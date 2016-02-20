@@ -1,1 +1,1 @@
-Some dummy NUnit tests for the PTS course.
+Some dummy NUnit tests made for the PTS course.
